@@ -6,6 +6,7 @@ Possible Ideas:
 - Website
 - Mobile App (android)
 - Blockchain implementation 
+- Make a game (using unity)
 
 Things to do:
 - Meet on 30/3/18 to think about topics/ideas
